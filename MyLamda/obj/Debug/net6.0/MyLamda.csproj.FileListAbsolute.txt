@@ -1,0 +1,15 @@
+C:\Users\arapt\Desktop\programming\misc\MyLamda\MyLamda\bin\Debug\net6.0\MyLamda.exe
+C:\Users\arapt\Desktop\programming\misc\MyLamda\MyLamda\bin\Debug\net6.0\MyLamda.deps.json
+C:\Users\arapt\Desktop\programming\misc\MyLamda\MyLamda\bin\Debug\net6.0\MyLamda.runtimeconfig.json
+C:\Users\arapt\Desktop\programming\misc\MyLamda\MyLamda\bin\Debug\net6.0\MyLamda.dll
+C:\Users\arapt\Desktop\programming\misc\MyLamda\MyLamda\bin\Debug\net6.0\MyLamda.pdb
+C:\Users\arapt\Desktop\programming\misc\MyLamda\MyLamda\obj\Debug\net6.0\MyLamda.csproj.AssemblyReference.cache
+C:\Users\arapt\Desktop\programming\misc\MyLamda\MyLamda\obj\Debug\net6.0\MyLamda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arapt\Desktop\programming\misc\MyLamda\MyLamda\obj\Debug\net6.0\MyLamda.AssemblyInfoInputs.cache
+C:\Users\arapt\Desktop\programming\misc\MyLamda\MyLamda\obj\Debug\net6.0\MyLamda.AssemblyInfo.cs
+C:\Users\arapt\Desktop\programming\misc\MyLamda\MyLamda\obj\Debug\net6.0\MyLamda.csproj.CoreCompileInputs.cache
+C:\Users\arapt\Desktop\programming\misc\MyLamda\MyLamda\obj\Debug\net6.0\MyLamda.dll
+C:\Users\arapt\Desktop\programming\misc\MyLamda\MyLamda\obj\Debug\net6.0\refint\MyLamda.dll
+C:\Users\arapt\Desktop\programming\misc\MyLamda\MyLamda\obj\Debug\net6.0\MyLamda.pdb
+C:\Users\arapt\Desktop\programming\misc\MyLamda\MyLamda\obj\Debug\net6.0\MyLamda.genruntimeconfig.cache
+C:\Users\arapt\Desktop\programming\misc\MyLamda\MyLamda\obj\Debug\net6.0\ref\MyLamda.dll
